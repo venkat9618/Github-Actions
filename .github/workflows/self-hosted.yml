@@ -1,5 +1,4 @@
-name: Testing Workflow Variables
-
+name: Testing Self-Hosted
 on:
   workflow_dispatch
 
